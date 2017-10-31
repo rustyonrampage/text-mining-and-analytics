@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /text-mining-and-analytics
+exclude: [ 'README.md' ]
